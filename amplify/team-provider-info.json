@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ionicdemo-dev-201351-authRole",
+            "UnauthRoleArn": "arn:aws:iam::934233583059:role/amplify-ionicdemo-dev-201351-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::934233583059:role/amplify-ionicdemo-dev-201351-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-ionicdemo-dev-201351-deployment",
+            "UnauthRoleName": "amplify-ionicdemo-dev-201351-unauthRole",
+            "StackName": "amplify-ionicdemo-dev-201351",
+            "StackId": "arn:aws:cloudformation:eu-west-1:934233583059:stack/amplify-ionicdemo-dev-201351/94cd3130-eb18-11eb-a6cf-0a847aceeafb",
+            "AmplifyAppId": "d4oeo7iqes5ki"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d4oeo7iqes5ki",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
